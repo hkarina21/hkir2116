@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>salariati.controller.EmployeeController</OriginalElement>
+  <nodes>
+    <node x="41.08276098901098" y="157.0">salariati.validator.EmployeeValidator</node>
+    <node x="66.65304487179486" y="303.0">salariati.model.Employee</node>
+    <node x="513.7363782051282" y="916.0">salariati.controller.EmployeeController</node>
+    <node x="495.707760989011" y="693.0">salariati.repository.interfaces.EmployeeRepositoryInterface</node>
+    <node x="309.1536172161172" y="146.0">salariati.exception.EmployeeException</node>
+    <node x="46.552999084249166" y="916.5">salariati.repository.implementations.EmployeeImpl</node>
+    <node x="200.99999999999997" y="0.0">salariati.enumeration.DidacticFunction</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="salariati.repository.interfaces.EmployeeRepositoryInterface" target="salariati.model.Employee">
+      <point x="-79.25" y="-81.5" />
+      <point x="574.9577609890109" y="668.0" />
+      <point x="386.90304487179486" y="668.0" />
+      <point x="137.25" y="170.0" />
+    </edge>
+    <edge source="salariati.validator.EmployeeValidator" target="salariati.enumeration.DidacticFunction">
+      <point x="0.0" y="-37.5" />
+      <point x="146.08276098901098" y="126.0" />
+      <point x="234.99999999999997" y="126.0" />
+      <point x="-34.0" y="48.0" />
+    </edge>
+    <edge source="salariati.repository.implementations.EmployeeImpl" target="salariati.model.Employee">
+      <point x="45.28571428571422" y="-104.0" />
+      <point x="250.3387133699634" y="896.0" />
+      <point x="236.24999999999997" y="896.0" />
+      <point x="236.24999999999997" y="668.0" />
+      <point x="203.90304487179486" y="668.0" />
+      <point x="-45.75" y="170.0" />
+    </edge>
+    <edge source="salariati.model.Employee" target="salariati.exception.EmployeeException">
+      <point x="152.5" y="-170.0" />
+      <point x="402.15304487179486" y="283.0" />
+      <point x="362.4036172161172" y="283.0" />
+      <point x="-53.25" y="48.5" />
+    </edge>
+    <edge source="salariati.repository.interfaces.EmployeeRepositoryInterface" target="salariati.enumeration.DidacticFunction">
+      <point x="79.25" y="-81.5" />
+      <point x="733.457760989011" y="126.0" />
+      <point x="303.0" y="126.0" />
+      <point x="34.0" y="48.0" />
+    </edge>
+    <edge source="salariati.validator.EmployeeValidator" target="salariati.model.Employee">
+      <point x="84.0" y="37.5" />
+      <point x="230.08276098901098" y="283.0" />
+      <point x="219.15304487179486" y="283.0" />
+      <point x="-30.5" y="-170.0" />
+    </edge>
+    <edge source="salariati.repository.implementations.EmployeeImpl" target="salariati.repository.interfaces.EmployeeRepositoryInterface">
+      <point x="135.8571428571429" y="-104.0" />
+      <point x="340.91014194139206" y="896.0" />
+      <point x="548.5410943223443" y="896.0" />
+      <point x="-105.66666666666667" y="81.5" />
+    </edge>
+    <edge source="salariati.controller.EmployeeController" target="salariati.repository.interfaces.EmployeeRepositoryInterface">
+      <point x="42.375" y="-104.5" />
+      <point x="725.6113782051282" y="896.0" />
+      <point x="759.8744276556777" y="896.0" />
+      <point x="105.66666666666669" y="81.5" />
+    </edge>
+    <edge source="salariati.repository.implementations.EmployeeImpl" target="salariati.exception.EmployeeException">
+      <point x="90.57142857142856" y="-104.0" />
+      <point x="295.6244276556777" y="886.0" />
+      <point x="468.9036172161172" y="886.0" />
+      <point x="53.250000000000014" y="48.5" />
+    </edge>
+    <edge source="salariati.model.Employee" target="salariati.validator.EmployeeValidator">
+      <point x="-91.5" y="-170.0" />
+      <point x="158.15304487179486" y="283.0" />
+      <point x="188.08276098901098" y="283.0" />
+      <point x="42.0" y="37.5" />
+    </edge>
+    <edge source="salariati.repository.implementations.EmployeeImpl" target="salariati.validator.EmployeeValidator">
+      <point x="-45.285714285714334" y="-104.0" />
+      <point x="159.76728479853483" y="876.0" />
+      <point x="39.499427655677664" y="876.0" />
+      <point x="39.499427655677664" y="273.0" />
+      <point x="104.08276098901098" y="273.0" />
+      <point x="-42.0" y="37.5" />
+    </edge>
+    <edge source="salariati.controller.EmployeeController" target="salariati.enumeration.DidacticFunction">
+      <point x="127.125" y="-104.5" />
+      <point x="810.3613782051282" y="896.0" />
+      <point x="823.207760989011" y="896.0" />
+      <point x="823.207760989011" y="116.0" />
+      <point x="325.66666666666663" y="116.0" />
+      <point x="56.66666666666663" y="48.0" />
+    </edge>
+    <edge source="salariati.controller.EmployeeController" target="salariati.model.Employee">
+      <point x="-127.125" y="-104.5" />
+      <point x="556.1113782051282" y="876.0" />
+      <point x="254.57028388278383" y="876.0" />
+      <point x="254.57028388278383" y="668.0" />
+      <point x="295.40304487179486" y="668.0" />
+      <point x="45.75" y="170.0" />
+    </edge>
+    <edge source="salariati.model.Employee" target="salariati.enumeration.DidacticFunction">
+      <point x="30.5" y="-170.0" />
+      <point x="280.15304487179486" y="283.0" />
+      <point x="264.3202838827838" y="283.0" />
+      <point x="264.3202838827838" y="126.0" />
+      <point x="257.66666666666663" y="126.0" />
+      <point x="-11.333333333333371" y="48.0" />
+    </edge>
+    <edge source="salariati.repository.implementations.EmployeeImpl" target="salariati.enumeration.DidacticFunction">
+      <point x="-135.85714285714295" y="-104.0" />
+      <point x="69.19585622710622" y="896.0" />
+      <point x="0.0" y="896.0" />
+      <point x="0.0" y="116.0" />
+      <point x="212.33333333333334" y="116.0" />
+      <point x="-56.66666666666663" y="48.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="276.0" y="219.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
