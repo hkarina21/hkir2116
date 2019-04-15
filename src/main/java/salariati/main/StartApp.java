@@ -20,9 +20,12 @@ public class StartApp {
 	
 	public static void main(String[] args) {
 		 Scanner in = new Scanner(System.in);
-		
-		EmployeeRepositoryInterface employeesRepository = new EmployeeImpl();
+		EmployeeValidator employeeValidator=new EmployeeValidator();
+		EmployeeRepositoryInterface employeesRepository = new EmployeeImpl("employees.txt",employeeValidator);
 		EmployeeController employeeController = new EmployeeController(employeesRepository);
+
+
+
 
 
 			int option;
@@ -53,12 +56,12 @@ public class StartApp {
 						System.out.println("Salary: ");
 						salary=in.nextLine();
 						if(function.equals(1))
-						{Employee e=new Employee(firstName,lastName,cnp,DidacticFunction.ASISTENT,salary);
-							employeeController.addEmployee(e);}
-						else if(function.equals(2)){Employee e=new Employee(firstName,lastName,cnp,DidacticFunction.LECTURER,salary);
-							employeeController.addEmployee(e);}
-						else{Employee e=new Employee(firstName,lastName,cnp,DidacticFunction.TEACHER,salary);
-							employeeController.addEmployee(e);}
+						{
+							employeeController.addEmployee(firstName,lastName,cnp,DidacticFunction.ASISTENT,salary);}
+						else if(function.equals(2)){
+							employeeController.addEmployee(firstName,lastName,cnp,DidacticFunction.LECTURER,salary);}
+						else{
+							employeeController.addEmployee(firstName,lastName,cnp,DidacticFunction.TEACHER,salary);}
 
 						break;
 					case 2:
@@ -89,6 +92,7 @@ public class StartApp {
 							System.out.println(e.getLastName()+" "+e.getFristName()+" "+e.getCnp());
 
 						}
+
 
 
 
