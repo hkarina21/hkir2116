@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03e7bf72-0fd7-40b4-ac0b-d2e3656ea78e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Docs/Lab1/Diagram_v2.0.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/Lab1/Requirements_v2.0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docs" beforeDir="false" afterPath="$PROJECT_DIR$/Docs" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-169583649">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="3525" />
+          <entry key="txt" value="19" />
+          <entry key="xml" value="64" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3525" />
+          <entry key="PLAIN_TEXT" value="19" />
+          <entry key="XML" value="64" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="EmployeeController" value="1" />
+          <entry key="JAVA/" value="1" />
+          <entry key="JavaScript-modules-diagram/C:/Users/Computer/IdeaProjects/hkir2116" value="1" />
+          <entry key="JavaScript-modules-diagram/C:/Users/Computer/IdeaProjects/hkir2116/src" value="1" />
+          <entry key="JavaScript-modules-diagram/C:/Users/Computer/IdeaProjects/hkir2116/src/main/java" value="1" />
+          <entry key="JavaScript-modules-diagram/C:/Users/Computer/IdeaProjects/hkir2116/src/main/java/salariati" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="24" />
+          <entry key="txt" value="9" />
+          <entry key="xsd" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="24" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="UML" value="6" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/salariati/controller/EmployeeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+              <folding>
+                <element signature="e#705#706#0" expanded="true" />
+                <element signature="e#755#756#0" expanded="true" />
+                <element signature="e#787#788#0" expanded="true" />
+                <element signature="e#832#833#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/employees.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVANonValid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVAValid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="24" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/salariati/repository/implementations/EmployeeImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testariBVA.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPNonValid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testari.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="43" selection-start-column="43" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPValid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/salariati/validator/EmployeeValidator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="15" column="109" selection-start-line="15" selection-start-column="109" selection-end-line="15" selection-end-column="109" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/salariati/model/Employee.java" />
+        <option value="$PROJECT_DIR$/src/test/java/salariati/repository/implementations/EmployeeImplTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/salariati/controller/EmployeeControllerTest.java" />
+        <option value="$PROJECT_DIR$/employees.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/salariati/repository/implementations/F01_ECPValid.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salariati/main/StartApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salariati/repository/implementations/EmployeeImpl.java" />
+        <option value="$PROJECT_DIR$/testari.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPValid.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salariati/controller/EmployeeController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPNonValid.java" />
+        <option value="$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVAValid.java" />
+        <option value="$PROJECT_DIR$/testariBVA.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVANonValid.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salariati/validator/EmployeeValidator.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hkir2116" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="215" />
+    <option name="width" value="1390" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hkir2116" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hkir2116" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hkir2116" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hkir2116" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hkir2116" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hkir2116" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hkir2116" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hkir2116" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hkir2116" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hkir2116" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="salariati" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hkir2116" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hkir2116" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="salariati" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hkir2116" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hkir2116" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="salariati" type="462c0819:PsiDirectoryNode" />
+              <item name="enumeration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hkir2116" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hkir2116" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="salariati" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hkir2116" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hkir2116" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="salariati" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hkir2116" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hkir2116" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="salariati" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hkir2116" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hkir2116" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="salariati" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+              <item name="implementations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hkir2116" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hkir2116" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="salariati" type="462c0819:PsiDirectoryNode" />
+              <item name="validator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hkir2116" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hkir2116" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hkir2116" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hkir2116" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hkir2116" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hkir2116" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hkir2116" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hkir2116" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555278790992" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="salariati.controller" />
+      <recent name="salariati.repository.implementations" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Computer\IdeaProjects\hkir2116" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StartApp">
+    <configuration name="StartApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="salariati.main.StartApp" />
+      <module name="hkir2116" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="salariati.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F01_BVANonValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hkir2116" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="salariati.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="salariati.controller" />
+      <option name="MAIN_CLASS_NAME" value="salariati.controller.F01_BVANonValid" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F01_BVAValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hkir2116" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="salariati.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="salariati.controller" />
+      <option name="MAIN_CLASS_NAME" value="salariati.controller.F01_BVAValid" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F01_ECPNonValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hkir2116" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="salariati.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="salariati.controller" />
+      <option name="MAIN_CLASS_NAME" value="salariati.controller.F01_ECPNonValid" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F01_ECPValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hkir2116" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="salariati.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="salariati.controller" />
+      <option name="MAIN_CLASS_NAME" value="salariati.controller.F01_ECPValid" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.F01_ECPValid" />
+      <item itemvalue="JUnit.F01_ECPNonValid" />
+      <item itemvalue="JUnit.F01_BVAValid" />
+      <item itemvalue="JUnit.F01_BVANonValid" />
+      <item itemvalue="Application.StartApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartApp" />
+        <item itemvalue="JUnit.F01_BVANonValid" />
+        <item itemvalue="JUnit.F01_BVAValid" />
+        <item itemvalue="JUnit.F01_ECPNonValid" />
+        <item itemvalue="JUnit.F01_ECPValid" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03e7bf72-0fd7-40b4-ac0b-d2e3656ea78e" name="Default Changelist" comment="" />
+      <created>1553451031047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553451031047</updated>
+      <workItem from="1553451035667" duration="2227000" />
+      <workItem from="1554196834980" duration="3753000" />
+      <workItem from="1554202608163" duration="378000" />
+      <workItem from="1554203213482" duration="2211000" />
+      <workItem from="1554887960306" duration="26000" />
+      <workItem from="1555266046199" duration="12453000" />
+      <workItem from="1555350647236" duration="858000" />
+    </task>
+    <task id="LOCAL-00001" summary="init version">
+      <created>1554204028957</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554204028957</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init version lab02">
+      <created>1555351150766</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555351150766</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="F01_ECPNonValid - 2019.04.15 at 00h 00m 43s.xml">
+      <configuration name="F01_ECPNonValid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="F01_ECPNonValid - 2019.04.15 at 00h 02m 20s.xml">
+      <configuration name="F01_ECPNonValid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="F01_ECPNonValid - 2019.04.15 at 00h 03m 29s.xml">
+      <configuration name="F01_ECPNonValid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="F01_BVAValid - 2019.04.15 at 00h 10m 50s.xml">
+      <configuration name="F01_BVAValid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="F01_BVAValid - 2019.04.15 at 00h 12m 33s.xml">
+      <configuration name="F01_BVAValid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="F01_BVAValid - 2019.04.15 at 00h 13m 40s.xml">
+      <configuration name="F01_BVAValid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="F01_BVAValid - 2019.04.15 at 00h 13m 58s.xml">
+      <configuration name="F01_BVAValid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="F01_BVAValid - 2019.04.15 at 00h 14m 49s.xml">
+      <configuration name="F01_BVAValid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="F01_BVAValid - 2019.04.15 at 00h 15m 04s.xml">
+      <configuration name="F01_BVAValid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="F01_BVANonValid - 2019.04.15 at 00h 16m 26s.xml">
+      <configuration name="F01_BVANonValid" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21906000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21677852" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="simpleUML" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3295302" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init version" />
+    <MESSAGE value="init version lab02" />
+    <option name="LAST_COMMIT_MESSAGE" value="init version lab02" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="78" column="6" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/2-ProiectSalariati/ProiectSalariati/ProiectSalariati.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/Computer/IdeaProjects/hkir2116">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="611.0" y="244.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/Computer/IdeaProjects/hkir2116/src">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="611.0" y="244.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">com</node>
+            <node x="" y="">images</node>
+            <node x="" y="">netscape</node>
+            <node x="" y="">junit</node>
+            <node x="" y="">oracle</node>
+            <node x="" y="">org</node>
+            <node x="" y="">templates</node>
+            <node x="" y="">toolbarButtonGraphics</node>
+            <node x="" y="">sun</node>
+            <node x="" y="">META-INF</node>
+            <node x="" y="">jdk</node>
+            <node x="" y="">salariati</node>
+            <node x="" y="">licenses</node>
+            <node x="" y="">groovyjarjarasm</node>
+            <node x="" y="">java</node>
+            <node x="" y="">groovy</node>
+            <node x="" y="">javax</node>
+            <node x="" y="">edu</node>
+            <node x="" y="">groovyjarjarcommonscli</node>
+            <node x="" y="">javafx</node>
+            <node x="" y="">groovyjarjarantlr</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8486956521739131" x="240.0" y="278.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/Computer/IdeaProjects/hkir2116/src/main/java/salariati">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/main/java/salariati</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="611.0" y="244.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/Computer/IdeaProjects/hkir2116/src/main/java">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/main/java</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/salariati.controller.EmployeeController">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>salariati.controller.EmployeeController</OriginalElement>
+          <nodes>
+            <node x="41.08276098901098" y="157.0">salariati.validator.EmployeeValidator</node>
+            <node x="66.65304487179486" y="303.0">salariati.model.Employee</node>
+            <node x="513.7363782051282" y="916.0">salariati.controller.EmployeeController</node>
+            <node x="495.707760989011" y="693.0">salariati.repository.interfaces.EmployeeRepositoryInterface</node>
+            <node x="309.1536172161172" y="146.0">salariati.exception.EmployeeException</node>
+            <node x="46.552999084249166" y="916.5">salariati.repository.implementations.EmployeeImpl</node>
+            <node x="200.99999999999997" y="0.0">salariati.enumeration.DidacticFunction</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="salariati.repository.interfaces.EmployeeRepositoryInterface" target="salariati.model.Employee">
+              <point x="-79.25" y="-81.5" />
+              <point x="574.9577609890109" y="668.0" />
+              <point x="386.90304487179486" y="668.0" />
+              <point x="137.25" y="170.0" />
+            </edge>
+            <edge source="salariati.validator.EmployeeValidator" target="salariati.enumeration.DidacticFunction">
+              <point x="0.0" y="-37.5" />
+              <point x="146.08276098901098" y="126.0" />
+              <point x="234.99999999999997" y="126.0" />
+              <point x="-34.0" y="48.0" />
+            </edge>
+            <edge source="salariati.repository.implementations.EmployeeImpl" target="salariati.model.Employee">
+              <point x="45.28571428571422" y="-104.0" />
+              <point x="250.3387133699634" y="896.0" />
+              <point x="236.24999999999997" y="896.0" />
+              <point x="236.24999999999997" y="668.0" />
+              <point x="203.90304487179486" y="668.0" />
+              <point x="-45.75" y="170.0" />
+            </edge>
+            <edge source="salariati.model.Employee" target="salariati.exception.EmployeeException">
+              <point x="152.5" y="-170.0" />
+              <point x="402.15304487179486" y="283.0" />
+              <point x="362.4036172161172" y="283.0" />
+              <point x="-53.25" y="48.5" />
+            </edge>
+            <edge source="salariati.repository.interfaces.EmployeeRepositoryInterface" target="salariati.enumeration.DidacticFunction">
+              <point x="79.25" y="-81.5" />
+              <point x="733.457760989011" y="126.0" />
+              <point x="303.0" y="126.0" />
+              <point x="34.0" y="48.0" />
+            </edge>
+            <edge source="salariati.validator.EmployeeValidator" target="salariati.model.Employee">
+              <point x="84.0" y="37.5" />
+              <point x="230.08276098901098" y="283.0" />
+              <point x="219.15304487179486" y="283.0" />
+              <point x="-30.5" y="-170.0" />
+            </edge>
+            <edge source="salariati.repository.implementations.EmployeeImpl" target="salariati.repository.interfaces.EmployeeRepositoryInterface">
+              <point x="135.8571428571429" y="-104.0" />
+              <point x="340.91014194139206" y="896.0" />
+              <point x="548.5410943223443" y="896.0" />
+              <point x="-105.66666666666667" y="81.5" />
+            </edge>
+            <edge source="salariati.controller.EmployeeController" target="salariati.repository.interfaces.EmployeeRepositoryInterface">
+              <point x="42.375" y="-104.5" />
+              <point x="725.6113782051282" y="896.0" />
+              <point x="759.8744276556777" y="896.0" />
+              <point x="105.66666666666669" y="81.5" />
+            </edge>
+            <edge source="salariati.repository.implementations.EmployeeImpl" target="salariati.exception.EmployeeException">
+              <point x="90.57142857142856" y="-104.0" />
+              <point x="295.6244276556777" y="886.0" />
+              <point x="468.9036172161172" y="886.0" />
+              <point x="53.250000000000014" y="48.5" />
+            </edge>
+            <edge source="salariati.model.Employee" target="salariati.validator.EmployeeValidator">
+              <point x="-91.5" y="-170.0" />
+              <point x="158.15304487179486" y="283.0" />
+              <point x="188.08276098901098" y="283.0" />
+              <point x="42.0" y="37.5" />
+            </edge>
+            <edge source="salariati.repository.implementations.EmployeeImpl" target="salariati.validator.EmployeeValidator">
+              <point x="-45.285714285714334" y="-104.0" />
+              <point x="159.76728479853483" y="876.0" />
+              <point x="39.499427655677664" y="876.0" />
+              <point x="39.499427655677664" y="273.0" />
+              <point x="104.08276098901098" y="273.0" />
+              <point x="-42.0" y="37.5" />
+            </edge>
+            <edge source="salariati.controller.EmployeeController" target="salariati.model.Employee">
+              <point x="-127.125" y="-104.5" />
+              <point x="556.1113782051282" y="876.0" />
+              <point x="254.57028388278383" y="876.0" />
+              <point x="254.57028388278383" y="668.0" />
+              <point x="295.40304487179486" y="668.0" />
+              <point x="45.75" y="170.0" />
+            </edge>
+            <edge source="salariati.controller.EmployeeController" target="salariati.enumeration.DidacticFunction">
+              <point x="127.125" y="-104.5" />
+              <point x="810.3613782051282" y="896.0" />
+              <point x="823.207760989011" y="896.0" />
+              <point x="823.207760989011" y="116.0" />
+              <point x="325.66666666666663" y="116.0" />
+              <point x="56.66666666666663" y="48.0" />
+            </edge>
+            <edge source="salariati.model.Employee" target="salariati.enumeration.DidacticFunction">
+              <point x="30.5" y="-170.0" />
+              <point x="280.15304487179486" y="283.0" />
+              <point x="264.3202838827838" y="283.0" />
+              <point x="264.3202838827838" y="126.0" />
+              <point x="257.66666666666663" y="126.0" />
+              <point x="-11.333333333333371" y="48.0" />
+            </edge>
+            <edge source="salariati.repository.implementations.EmployeeImpl" target="salariati.enumeration.DidacticFunction">
+              <point x="-135.85714285714295" y="-104.0" />
+              <point x="69.19585622710622" y="896.0" />
+              <point x="0.0" y="896.0" />
+              <point x="0.0" y="116.0" />
+              <point x="212.33333333333334" y="116.0" />
+              <point x="-56.66666666666663" y="48.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.5645021645021645" x="386.0" y="568.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/salariati/repository/implementations/EmployeeImplTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/EmployeeControllerTest.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/jdk/internal/util/Preconditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/salariati/repository/implementations/F01_ECPValid.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/model/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2671">
+          <caret line="180" column="12" lean-forward="true" selection-start-line="180" selection-start-column="12" selection-end-line="180" selection-end-column="12" />
+          <folding>
+            <element signature="e#3320#3321#0" expanded="true" />
+            <element signature="e#3365#3366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/enumeration/DidacticFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/main/StartApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="23" column="110" selection-start-line="23" selection-start-column="110" selection-end-line="23" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employees.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVANonValid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVAValid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/repository/implementations/EmployeeImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testariBVA.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPNonValid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testari.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" selection-start-column="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPValid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/validator/EmployeeValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="109" selection-start-line="15" selection-start-column="109" selection-end-line="15" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/controller/EmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding>
+            <element signature="e#705#706#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#787#788#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>hkir2116</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: backport-util-concurrent:backport-util-concurrent:3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
