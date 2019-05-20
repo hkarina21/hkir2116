@@ -13,6 +13,7 @@ import salariati.model.Employee;
 
 import salariati.repository.interfaces.EmployeeRepositoryInterface;
 import salariati.validator.EmployeeValidator;
+import salariati.validator.ValidatorException;
 
 public class EmployeeImpl implements EmployeeRepositoryInterface {
 
@@ -21,25 +22,26 @@ public class EmployeeImpl implements EmployeeRepositoryInterface {
 	private EmployeeValidator employeeValidator ;
 
 	public EmployeeImpl(String employeeDBFile,EmployeeValidator employeeValidator){
-		this.employeeDBFile=employeeDBFile=employeeDBFile;
+		this.employeeDBFile=employeeDBFile;
 		this.employeeValidator=employeeValidator;
 	}
 
 	@Override
-	public boolean addEmployee(Employee employee) {
-		if (employeeValidator.isValid(employee)) {
+	public boolean addEmployee(Employee employee)throws ValidatorException {
+		employeeValidator.isValid(employee);
 			BufferedWriter bw = null;
 			try {
 				bw = new BufferedWriter(new FileWriter(employeeDBFile, true));
 
 				bw.write(employee.toString());
 
+
 				bw.close();
 				return true;
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
-		}
+
 		return false;
 	}
 
@@ -62,7 +64,8 @@ public class EmployeeImpl implements EmployeeRepositoryInterface {
 			emn.setFunction(function);
 			emn.setCnp(em.getCnp());
 			emn.setSalary(em.getSalary());
-			employeeList.set(employeeList.indexOf(em),emn);
+			employeeList.set(employeeList.indexOf(em),emn);}
+		}
 
 			try(BufferedWriter writer=new BufferedWriter(new FileWriter("employees.txt"))){
 				employeeList.forEach (candidat->{
@@ -72,21 +75,14 @@ public class EmployeeImpl implements EmployeeRepositoryInterface {
 						e.printStackTrace();
 					}
 				});
-			}catch (FileNotFoundException e) {
+			}
+			catch (FileNotFoundException e) {
 				System.out.println("Fisierul nu a fost gasit !");
-			} catch (IOException e) {
+			}
+			catch (IOException e) {
 				System.out.println("I/O error");
 			}
-
-		}
-
-		}
-
-
-
-
-
-		}
+	}
 
 
 
@@ -112,6 +108,8 @@ public class EmployeeImpl implements EmployeeRepositoryInterface {
 					employeeList.add(employee);
 				} catch (EmployeeException ex) {
 					System.err.println("Error while reading: " + ex.toString());
+				} catch (ValidatorException e) {
+					e.printStackTrace();
 				}
 			}
 		} catch (FileNotFoundException e) {
@@ -153,5 +151,16 @@ public class EmployeeImpl implements EmployeeRepositoryInterface {
 		return employeeList;
 
 
+	}
+
+	public Employee getEmployeeByCNP(String CNP){
+		List<Employee>employeeList=getEmployeeList();
+		for (Employee e:employeeList
+			 ) {if(CNP.equals(e.getCnp())){
+			 	return e;
+		}
+
+		}
+		return null;
 	}
 }

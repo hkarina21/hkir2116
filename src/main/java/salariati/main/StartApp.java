@@ -7,6 +7,7 @@ import salariati.repository.interfaces.EmployeeRepositoryInterface;
 import salariati.validator.EmployeeValidator;
 import salariati.controller.EmployeeController;
 import salariati.enumeration.DidacticFunction;
+import salariati.validator.ValidatorException;
 
 import java.util.List;
 import java.util.Scanner;
@@ -51,17 +52,21 @@ public class StartApp {
 						System.out.println("Function: ");
 						System.out.println("1-ASSISTENT");
 						System.out.println("2-LECTURER");
-						System.out.println("1-TEACHER");
+						System.out.println("3-TEACHER");
 						function=in.nextLine();
 						System.out.println("Salary: ");
 						salary=in.nextLine();
+						try{
 						if(function.equals(1))
 						{
 							employeeController.addEmployee(firstName,lastName,cnp,DidacticFunction.ASISTENT,salary);}
 						else if(function.equals(2)){
 							employeeController.addEmployee(firstName,lastName,cnp,DidacticFunction.LECTURER,salary);}
-						else{
-							employeeController.addEmployee(firstName,lastName,cnp,DidacticFunction.TEACHER,salary);}
+						else{if(function.equals(3)){
+							employeeController.addEmployee(firstName,lastName,cnp,DidacticFunction.TEACHER,salary);}}}
+							catch (ValidatorException e){
+								System.out.println(e.getMessage());
+							}
 
 						break;
 					case 2:

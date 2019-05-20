@@ -2,9 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03e7bf72-0fd7-40b4-ac0b-d2e3656ea78e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Docs/Lab1/Diagram_v2.0.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Docs/Lab1/Requirements_v2.0.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs" beforeDir="false" afterPath="$PROJECT_DIR$/Docs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/salariati/validator/ValidatorException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/salariati/controller/EmployeeControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVANonValidT2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVAValidT2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPValidT2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/salariati/integration/IntegrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employees.txt" beforeDir="false" afterPath="$PROJECT_DIR$/employees.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/salariati/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/salariati/controller/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/salariati/main/StartApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/salariati/main/StartApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/salariati/model/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/salariati/model/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/salariati/repository/implementations/EmployeeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/salariati/repository/implementations/EmployeeImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/salariati/repository/interfaces/EmployeeRepositoryInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/salariati/repository/interfaces/EmployeeRepositoryInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/salariati/validator/EmployeeValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/salariati/validator/EmployeeValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVANonValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVANonValid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVAValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVAValid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPNonValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPNonValid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPValid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/salariati/controller/EmployeeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/salariati/controller/EmployeeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/salariati/main/StartApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/salariati/main/StartApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/salariati/model/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/salariati/model/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/salariati/repository/implementations/EmployeeImpl$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/salariati/repository/implementations/EmployeeImpl$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/salariati/repository/implementations/EmployeeImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/salariati/repository/implementations/EmployeeImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/salariati/repository/interfaces/EmployeeRepositoryInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/salariati/repository/interfaces/EmployeeRepositoryInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/salariati/validator/EmployeeValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/salariati/validator/EmployeeValidator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/salariati/controller/F01_BVANonValid.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/salariati/controller/F01_BVANonValid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/salariati/controller/F01_BVAValid.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/salariati/controller/F01_BVAValid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/salariati/controller/F01_ECPNonValid.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/salariati/controller/F01_ECPNonValid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/salariati/controller/F01_ECPValid.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/salariati/controller/F01_ECPValid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testari.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testari.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testariBVA.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testariBVA.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -14,30 +42,43 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/hkir2116$salariati_repository_implementations_in_hkir2116.ic" NAME="salariati.repository.implementations in hkir2116 Coverage Results" MODIFIED="1557223418574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>salariati.repository.implementations.*</FILTER>
+      <FILTER>salariati.repository.implementations.EmployeeImpl</FILTER>
+    </SUITE>
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="Cover" />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-169583649">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.10" value="2" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.10" value="5" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3525" />
-          <entry key="txt" value="19" />
+          <entry key="java" value="5873" />
+          <entry key="testeF02" value="10" />
+          <entry key="txt" value="32" />
           <entry key="xml" value="64" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3525" />
-          <entry key="PLAIN_TEXT" value="19" />
+          <entry key="JAVA" value="5873" />
+          <entry key="PLAIN_TEXT" value="42" />
           <entry key="XML" value="64" />
         </counts>
       </usages-collector>
@@ -50,16 +91,19 @@
           <entry key="JavaScript-modules-diagram/C:/Users/Computer/IdeaProjects/hkir2116/src/main/java" value="1" />
           <entry key="JavaScript-modules-diagram/C:/Users/Computer/IdeaProjects/hkir2116/src/main/java/salariati" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="24" />
-          <entry key="txt" value="9" />
+          <entry key="java" value="66" />
+          <entry key="testariF02" value="2" />
+          <entry key="testeF02" value="2" />
+          <entry key="testeeF02" value="1" />
+          <entry key="txt" value="15" />
           <entry key="xsd" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="24" />
-          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="JAVA" value="66" />
+          <entry key="PLAIN_TEXT" value="20" />
           <entry key="UML" value="6" />
           <entry key="XML" value="1" />
         </counts>
@@ -68,94 +112,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/salariati/controller/EmployeeController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-              <folding>
-                <element signature="e#705#706#0" expanded="true" />
-                <element signature="e#755#756#0" expanded="true" />
-                <element signature="e#787#788#0" expanded="true" />
-                <element signature="e#832#833#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/employees.txt">
+        <entry file="file://$PROJECT_DIR$/src/test/java/salariati/integration/IntegrationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVANonValid.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVAValid.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="24" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/salariati/repository/implementations/EmployeeImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testariBVA.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPNonValid.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testari.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="43" selection-start-column="43" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPValid.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+            <state relative-caret-position="-254">
+              <caret line="73" column="48" selection-start-line="73" selection-start-column="48" selection-end-line="73" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -166,8 +127,98 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/salariati/validator/EmployeeValidator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="15" column="109" selection-start-line="15" selection-start-column="109" selection-end-line="15" selection-end-column="109" />
+            <state relative-caret-position="408">
+              <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/salariati/repository/implementations/F02_WBTNonValid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPValid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPNonValid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVANonValid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVAValid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/salariati/repository/implementations/F02_WBTValid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testari.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/EmployeeControllerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="31" selection-start-line="24" selection-start-column="7" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -177,6 +228,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="JUnit4 Test Class" />
       </list>
     </option>
@@ -189,21 +241,31 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/salariati/model/Employee.java" />
         <option value="$PROJECT_DIR$/src/test/java/salariati/repository/implementations/EmployeeImplTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/salariati/controller/EmployeeControllerTest.java" />
-        <option value="$PROJECT_DIR$/employees.txt" />
         <option value="$PROJECT_DIR$/src/test/java/salariati/repository/implementations/F01_ECPValid.java" />
-        <option value="$PROJECT_DIR$/src/main/java/salariati/main/StartApp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/salariati/repository/implementations/EmployeeImpl.java" />
-        <option value="$PROJECT_DIR$/testari.txt" />
-        <option value="$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPValid.java" />
-        <option value="$PROJECT_DIR$/src/main/java/salariati/controller/EmployeeController.java" />
-        <option value="$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPNonValid.java" />
-        <option value="$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVAValid.java" />
         <option value="$PROJECT_DIR$/testariBVA.txt" />
-        <option value="$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVANonValid.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salariati/validator/ValidatorException.java" />
         <option value="$PROJECT_DIR$/src/main/java/salariati/validator/EmployeeValidator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salariati/model/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salariati/repository/interfaces/EmployeeRepositoryInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salariati/controller/EmployeeController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPValidT2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVAValid.java" />
+        <option value="$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVANonValid.java" />
+        <option value="$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVANonValidT2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVAValidT2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPNonValid.java" />
+        <option value="$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPValid.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salariati/main/StartApp.java" />
+        <option value="$PROJECT_DIR$/testariF02" />
+        <option value="$PROJECT_DIR$/src/test/java/salariati/repository/implementations/F02_WBTNonValid.java" />
+        <option value="$PROJECT_DIR$/testeF02" />
+        <option value="$PROJECT_DIR$/src/test/java/salariati/repository/implementations/F02_WBTValid.java" />
+        <option value="$PROJECT_DIR$/src/test/java/salariati/controller/EmployeeControllerTest.java" />
+        <option value="$PROJECT_DIR$/testari.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/salariati/repository/implementations/EmployeeImpl.java" />
+        <option value="$PROJECT_DIR$/employees.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/salariati/integration/IntegrationTest.java" />
       </list>
     </option>
   </component>
@@ -232,9 +294,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="215" />
-    <option name="width" value="1390" />
-    <option name="height" value="1040" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1385" />
+    <option name="height" value="745" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -242,6 +305,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -300,6 +365,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="salariati" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hkir2116" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hkir2116" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="salariati" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -337,6 +411,16 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="salariati" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hkir2116" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hkir2116" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="salariati" type="462c0819:PsiDirectoryNode" />
               <item name="validator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -358,7 +442,34 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="salariati" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hkir2116" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hkir2116" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="salariati" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hkir2116" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hkir2116" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="salariati" type="462c0819:PsiDirectoryNode" />
+              <item name="integration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hkir2116" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hkir2116" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="salariati" type="462c0819:PsiDirectoryNode" />
+              <item name="implementations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hkir2116" type="b2602c69:ProjectViewProjectNode" />
@@ -369,23 +480,22 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555278790992" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558369123150" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab2" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/ProiectNoteElevi" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -411,21 +521,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StartApp">
-    <configuration name="StartApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="salariati.main.StartApp" />
-      <module name="hkir2116" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="salariati.main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="F01_BVANonValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.IntegrationTest">
+    <configuration name="EmployeeControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hkir2116" />
       <extension name="coverage">
         <pattern>
@@ -434,67 +531,88 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="salariati.controller" />
-      <option name="MAIN_CLASS_NAME" value="salariati.controller.F01_BVANonValid" />
+      <option name="MAIN_CLASS_NAME" value="salariati.controller.EmployeeControllerTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F01_BVAValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="F02_WBTNonValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hkir2116" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="salariati.controller.*" />
+          <option name="PATTERN" value="salariati.repository.implementations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="salariati.controller" />
-      <option name="MAIN_CLASS_NAME" value="salariati.controller.F01_BVAValid" />
+      <option name="PACKAGE_NAME" value="salariati.repository.implementations" />
+      <option name="MAIN_CLASS_NAME" value="salariati.repository.implementations.F02_WBTNonValid" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F01_ECPNonValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="F02_WBTValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hkir2116" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="salariati.controller.*" />
+          <option name="PATTERN" value="salariati.repository.implementations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="salariati.controller" />
-      <option name="MAIN_CLASS_NAME" value="salariati.controller.F01_ECPNonValid" />
+      <option name="PACKAGE_NAME" value="salariati.repository.implementations" />
+      <option name="MAIN_CLASS_NAME" value="salariati.repository.implementations.F02_WBTValid" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F01_ECPValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hkir2116" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="salariati.controller.*" />
+          <option name="PATTERN" value="salariati.integration.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="salariati.controller" />
-      <option name="MAIN_CLASS_NAME" value="salariati.controller.F01_ECPValid" />
+      <option name="PACKAGE_NAME" value="salariati.integration" />
+      <option name="MAIN_CLASS_NAME" value="salariati.integration.IntegrationTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="salariati.repository.implementations in hkir2116" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hkir2116" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="salariati.repository.implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="salariati.repository.implementations.EmployeeImpl" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="salariati.repository.implementations" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.F01_ECPValid" />
-      <item itemvalue="JUnit.F01_ECPNonValid" />
-      <item itemvalue="JUnit.F01_BVAValid" />
-      <item itemvalue="JUnit.F01_BVANonValid" />
-      <item itemvalue="Application.StartApp" />
+      <item itemvalue="JUnit.F02_WBTValid" />
+      <item itemvalue="JUnit.salariati.repository.implementations in hkir2116" />
+      <item itemvalue="JUnit.F02_WBTNonValid" />
+      <item itemvalue="JUnit.EmployeeControllerTest" />
+      <item itemvalue="JUnit.IntegrationTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StartApp" />
-        <item itemvalue="JUnit.F01_BVANonValid" />
-        <item itemvalue="JUnit.F01_BVAValid" />
-        <item itemvalue="JUnit.F01_ECPNonValid" />
-        <item itemvalue="JUnit.F01_ECPValid" />
+        <item itemvalue="JUnit.IntegrationTest" />
+        <item itemvalue="JUnit.EmployeeControllerTest" />
+        <item itemvalue="JUnit.F02_WBTNonValid" />
+        <item itemvalue="JUnit.F02_WBTValid" />
+        <item itemvalue="JUnit.salariati.repository.implementations in hkir2116" />
       </list>
     </recent_temporary>
   </component>
@@ -514,7 +632,15 @@
       <workItem from="1554203213482" duration="2211000" />
       <workItem from="1554887960306" duration="26000" />
       <workItem from="1555266046199" duration="12453000" />
-      <workItem from="1555350647236" duration="858000" />
+      <workItem from="1555350647236" duration="1450000" />
+      <workItem from="1555411673250" duration="3284000" />
+      <workItem from="1555431018681" duration="61000" />
+      <workItem from="1557167712724" duration="7581000" />
+      <workItem from="1557215035643" duration="8578000" />
+      <workItem from="1557226331958" duration="1080000" />
+      <workItem from="1557332975955" duration="19000" />
+      <workItem from="1558283318487" duration="7129000" />
+      <workItem from="1558354780791" duration="1737000" />
     </task>
     <task id="LOCAL-00001" summary="init version">
       <created>1554204028957</created>
@@ -530,48 +656,56 @@
       <option name="project" value="LOCAL" />
       <updated>1555351150766</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="init version lab02">
+      <created>1557226471033</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557226471033</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="F01_ECPNonValid - 2019.04.15 at 00h 00m 43s.xml">
-      <configuration name="F01_ECPNonValid" configurationId="JUnit" />
+    <history-entry file="IntegrationTest - 2019.05.19 at 23h 19m 19s.xml">
+      <configuration name="IntegrationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="F01_ECPNonValid - 2019.04.15 at 00h 02m 20s.xml">
-      <configuration name="F01_ECPNonValid" configurationId="JUnit" />
+    <history-entry file="IntegrationTest - 2019.05.19 at 23h 24m 55s.xml">
+      <configuration name="IntegrationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="F01_ECPNonValid - 2019.04.15 at 00h 03m 29s.xml">
-      <configuration name="F01_ECPNonValid" configurationId="JUnit" />
+    <history-entry file="IntegrationTest - 2019.05.19 at 23h 25m 25s.xml">
+      <configuration name="IntegrationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="F01_BVAValid - 2019.04.15 at 00h 10m 50s.xml">
-      <configuration name="F01_BVAValid" configurationId="JUnit" />
+    <history-entry file="IntegrationTest - 2019.05.19 at 23h 38m 50s.xml">
+      <configuration name="IntegrationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="F01_BVAValid - 2019.04.15 at 00h 12m 33s.xml">
-      <configuration name="F01_BVAValid" configurationId="JUnit" />
+    <history-entry file="IntegrationTest - 2019.05.19 at 23h 40m 15s.xml">
+      <configuration name="IntegrationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="F01_BVAValid - 2019.04.15 at 00h 13m 40s.xml">
-      <configuration name="F01_BVAValid" configurationId="JUnit" />
+    <history-entry file="IntegrationTest - 2019.05.19 at 23h 40m 58s.xml">
+      <configuration name="IntegrationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="F01_BVAValid - 2019.04.15 at 00h 13m 58s.xml">
-      <configuration name="F01_BVAValid" configurationId="JUnit" />
+    <history-entry file="IntegrationTest - 2019.05.19 at 23h 43m 56s.xml">
+      <configuration name="IntegrationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="F01_BVAValid - 2019.04.15 at 00h 14m 49s.xml">
-      <configuration name="F01_BVAValid" configurationId="JUnit" />
+    <history-entry file="IntegrationTest - 2019.05.19 at 23h 45m 01s.xml">
+      <configuration name="IntegrationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="F01_BVAValid - 2019.04.15 at 00h 15m 04s.xml">
-      <configuration name="F01_BVAValid" configurationId="JUnit" />
+    <history-entry file="IntegrationTest - 2019.05.19 at 23h 45m 54s.xml">
+      <configuration name="IntegrationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="F01_BVANonValid - 2019.04.15 at 00h 16m 26s.xml">
-      <configuration name="F01_BVANonValid" configurationId="JUnit" />
+    <history-entry file="IntegrationTest - 2019.05.19 at 23h 46m 14s.xml">
+      <configuration name="IntegrationTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21906000" />
+    <option name="totallyTimeSpent" value="51967000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21677852" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24295302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -580,17 +714,17 @@
       <window_info id="UI Designer" order="6" />
       <window_info id="simpleUML" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34419262" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.23796034" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -600,6 +734,7 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.3295302" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3295302" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -621,9 +756,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/2-ProiectSalariati/ProiectSalariati/ProiectSalariati.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/2-ProiectSalariati/ProiectSalariati/ProiectSalariati.iml" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -874,7 +1007,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/salariati/repository/implementations/EmployeeImplTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/EmployeeControllerTest.java" />
     <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/jdk/internal/util/Preconditions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -883,17 +1015,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/salariati/repository/implementations/F01_ECPValid.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/model/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2671">
-          <caret line="180" column="12" lean-forward="true" selection-start-line="180" selection-start-column="12" selection-end-line="180" selection-end-column="12" />
-          <folding>
-            <element signature="e#3320#3321#0" expanded="true" />
-            <element signature="e#3365#3366#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/salariati/enumeration/DidacticFunction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -901,24 +1022,151 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/main/StartApp.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/exception/EmployeeException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="23" column="110" selection-start-line="23" selection-start-column="110" selection-end-line="23" selection-end-column="110" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/model/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="207" column="1" selection-start-line="207" selection-start-column="1" selection-end-line="207" selection-end-column="1" />
+          <folding>
+            <element signature="e#1149#1150#0" expanded="true" />
+            <element signature="e#1172#1173#0" expanded="true" />
+            <element signature="e#1219#1220#0" expanded="true" />
+            <element signature="e#1252#1253#0" expanded="true" />
+            <element signature="e#1857#1858#0" expanded="true" />
+            <element signature="e#1890#1891#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVANonValidT2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/Enum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="239" selection-start-line="239" selection-end-line="239" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVAValidT2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPValidT2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/repository/interfaces/EmployeeRepositoryInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="69" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testariF02" />
+    <entry file="file://$PROJECT_DIR$/testeeF02" />
+    <entry file="file://$PROJECT_DIR$/testeF02">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/main/StartApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="86" column="24" selection-start-line="86" selection-start-column="24" selection-end-line="86" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testariBVA.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/employees.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/controller/EmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/repository/implementations/EmployeeImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/validator/ValidatorException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/validator/EmployeeValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testari.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/EmployeeControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="31" selection-start-line="24" selection-start-column="7" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPNonValid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVANonValid.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        <state relative-caret-position="170">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -927,67 +1175,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVAValid.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="24" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="170">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/repository/implementations/EmployeeImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/salariati/repository/implementations/F02_WBTValid.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        <state relative-caret-position="204">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testariBVA.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPNonValid.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/salariati/repository/implementations/F02_WBTNonValid.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="134">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testari.txt">
+    <entry file="file://$PROJECT_DIR$/src/test/java/salariati/integration/IntegrationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="43" selection-start-column="43" selection-end-column="43" />
+        <state relative-caret-position="-254">
+          <caret line="73" column="48" selection-start-line="73" selection-start-column="48" selection-end-line="73" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPValid.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+        <state relative-caret-position="204">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/validator/EmployeeValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" column="109" selection-start-line="15" selection-start-column="109" selection-end-line="15" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/salariati/controller/EmployeeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-          <folding>
-            <element signature="e#705#706#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-            <element signature="e#787#788#0" expanded="true" />
-            <element signature="e#832#833#0" expanded="true" />
           </folding>
         </state>
       </provider>

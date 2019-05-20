@@ -4,6 +4,7 @@ import org.junit.Test;
 import salariati.enumeration.DidacticFunction;
 import salariati.repository.implementations.EmployeeImpl;
 import salariati.validator.EmployeeValidator;
+import salariati.validator.ValidatorException;
 
 import static org.junit.Assert.*;
 
@@ -17,9 +18,12 @@ public class F01_BVANonValid {
     public void addEmployee() {
         //Prenumele trebuie sa fie format doar din litere si trebuie sa aiba lungimea minim 3
         //Salariul trebuie sa fie format doar din cifre si sa aiba lungimea mai mare decat 2 si sa fie pozitiv
-        ctrl.addEmployee("Alexandrescu", "R", "1856701234567", DidacticFunction.LECTURER, "12054");
+        try{ctrl.addEmployee("Alexandrescu", "Raluca", "1856701234567", DidacticFunction.LECTURER, "1");}
+        catch (ValidatorException e){
+            System.out.println(e.getMessage());
+        }
 
-        assertEquals("Adding 1 more fruit to list", 1, repo.getEmployeeList().size());
+        assertEquals("Salary length is not correct", 1, repo.getEmployeeList().size());
 
 
     }}

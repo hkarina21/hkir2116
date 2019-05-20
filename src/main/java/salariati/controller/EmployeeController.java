@@ -5,6 +5,7 @@ import java.util.List;
 import salariati.enumeration.DidacticFunction;
 import salariati.model.Employee;
 import salariati.repository.interfaces.EmployeeRepositoryInterface;
+import salariati.validator.ValidatorException;
 
 public class EmployeeController {
 	
@@ -14,7 +15,7 @@ public class EmployeeController {
 		this.employeeRepository = employeeRepository;
 	}
 	
-	public void addEmployee(String firstname,String lastname,String cnp,DidacticFunction function,String salary)
+	public void addEmployee(String firstname,String lastname,String cnp,DidacticFunction function,String salary) throws ValidatorException
 	{	Employee employee=new Employee(firstname,lastname,cnp,function,salary);
 		employeeRepository.addEmployee(employee);
 	}
