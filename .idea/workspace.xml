@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="03e7bf72-0fd7-40b4-ac0b-d2e3656ea78e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/salariati/controller/F01_ECPValid.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/salariati/controller/F01_ECPValid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employees.txt" beforeDir="false" afterPath="$PROJECT_DIR$/employees.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -62,19 +62,19 @@
           <entry key="JavaScript-modules-diagram/C:/Users/Computer/IdeaProjects/hkir2116/src/main/java" value="1" />
           <entry key="JavaScript-modules-diagram/C:/Users/Computer/IdeaProjects/hkir2116/src/main/java/salariati" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="68" />
+          <entry key="java" value="69" />
           <entry key="testariF02" value="2" />
           <entry key="testeF02" value="2" />
           <entry key="testeeF02" value="1" />
-          <entry key="txt" value="16" />
+          <entry key="txt" value="17" />
           <entry key="xsd" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="68" />
-          <entry key="PLAIN_TEXT" value="21" />
+          <entry key="JAVA" value="69" />
+          <entry key="PLAIN_TEXT" value="22" />
           <entry key="UML" value="6" />
           <entry key="XML" value="1" />
         </counts>
@@ -83,6 +83,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/salariati/integration/IntegrationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="122" column="58" lean-forward="true" selection-start-line="122" selection-start-column="58" selection-end-line="122" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/employees.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPValid.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -134,30 +155,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/salariati/controller/F01_BVAValid.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/salariati/repository/implementations/F02_WBTValid.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testari.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
@@ -221,12 +218,12 @@
         <option value="$PROJECT_DIR$/testeF02" />
         <option value="$PROJECT_DIR$/src/test/java/salariati/repository/implementations/F02_WBTValid.java" />
         <option value="$PROJECT_DIR$/src/test/java/salariati/controller/EmployeeControllerTest.java" />
-        <option value="$PROJECT_DIR$/employees.txt" />
         <option value="$PROJECT_DIR$/src/test/java/salariati/integration/IntegrationTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/salariati/repository/implementations/EmployeeImpl.java" />
         <option value="$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPNonValid.java" />
         <option value="$PROJECT_DIR$/src/test/java/salariati/controller/F01_ECPValid.java" />
         <option value="$PROJECT_DIR$/testari.txt" />
+        <option value="$PROJECT_DIR$/employees.txt" />
       </list>
     </option>
   </component>
@@ -446,7 +443,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558436874180" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558437415124" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Lab05Pb4" />
@@ -482,7 +479,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.F01_ECPValid">
+  <component name="RunManager" selected="JUnit.IntegrationTest">
     <configuration name="EmployeeControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hkir2116" />
       <extension name="coverage">
@@ -562,9 +559,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.IntegrationTest" />
         <item itemvalue="JUnit.F01_ECPValid" />
         <item itemvalue="JUnit.F01_ECPNonValid" />
-        <item itemvalue="JUnit.IntegrationTest" />
         <item itemvalue="JUnit.EmployeeControllerTest" />
         <item itemvalue="JUnit.F02_WBTNonValid" />
       </list>
@@ -595,7 +592,7 @@
       <workItem from="1557332975955" duration="19000" />
       <workItem from="1558283318487" duration="7129000" />
       <workItem from="1558354780791" duration="4235000" />
-      <workItem from="1558434601303" duration="1820000" />
+      <workItem from="1558434601303" duration="2359000" />
     </task>
     <task id="LOCAL-00001" summary="init version">
       <created>1554204028957</created>
@@ -639,13 +636,17 @@
       <option name="project" value="LOCAL" />
       <updated>1558436747569</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="init version lab02">
+      <created>1558436889523</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1558436889523</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="F01_ECPNonValid - 2019.05.21 at 14h 00m 15s.xml">
-      <configuration name="F01_ECPNonValid" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="F01_ECPValid - 2019.05.21 at 14h 03m 08s.xml">
       <configuration name="F01_ECPValid" configurationId="JUnit" />
     </history-entry>
@@ -673,15 +674,18 @@
     <history-entry file="F01_ECPValid - 2019.05.21 at 14h 07m 47s.xml">
       <configuration name="F01_ECPValid" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="IntegrationTest - 2019.05.21 at 14h 16m 35s.xml">
+      <configuration name="IntegrationTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56285000" />
+    <option name="totallyTimeSpent" value="56824000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24630873" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24630873" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -691,7 +695,7 @@
       <window_info id="simpleUML" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34419262" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34419262" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1070,13 +1074,6 @@
     <entry file="file://$PROJECT_DIR$/testariBVA.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/employees.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/salariati/controller/EmployeeController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1095,16 +1092,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/salariati/integration/IntegrationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="73" column="48" selection-start-line="73" selection-start-column="48" selection-end-line="73" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1199,6 +1186,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/salariati/integration/IntegrationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="122" column="58" lean-forward="true" selection-start-line="122" selection-start-column="58" selection-end-line="122" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employees.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
