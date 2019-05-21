@@ -10,7 +10,7 @@ import static org.junit.Assert.*;
 
 public class F01_ECPNonValid {
     private EmployeeValidator employeeValidator=new EmployeeValidator();
-    private EmployeeImpl repo=new EmployeeImpl("testari.txt",employeeValidator);
+    private EmployeeImpl repo=new EmployeeImpl("testarile.txt",employeeValidator);
     private EmployeeController ctrl=new EmployeeController(repo);
 
     @Test
@@ -22,7 +22,7 @@ public class F01_ECPNonValid {
             System.out.println(e.getMessage());
         }
 
-        assertEquals("The salary format is not correct", 1, repo.getEmployeeList().size());
+        assertEquals("The salary format is not correct", 0, repo.getEmployeeList().size());
 
     }
 }

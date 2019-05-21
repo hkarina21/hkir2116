@@ -19,13 +19,13 @@ public class F01_ECPValid {
     public void addEmployee() {
         //Prenumele trebuie sa fie format doar din litere si trebuie sa aiba lungimea minim 3
         //Salariul trebuie sa fie format doar din cifre si sa aiba lungimea mai mare decat 2 si sa fie pozitiv
-        try{ctrl.addEmployee("Timofte","Teodora","1856701234567",DidacticFunction.ASISTENT,"1200");}
-        catch (ValidatorException e){
+        try{ctrl.addEmployee("Timofte","Teodora","1856701234567",DidacticFunction.ASISTENT,"1200");
+            assertEquals("Adding 1 more employee to list", 6, repo.getEmployeeList().size());}
+        catch (ValidatorException e) {
             System.out.println(e.getMessage());
+
+
         }
-
-        assertEquals("Adding 1 more employee to list", 1, repo.getEmployeeList().size());
-
     }
 
 
