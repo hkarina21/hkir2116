@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="03e7bf72-0fd7-40b4-ac0b-d2e3656ea78e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testari.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testari.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/salariati/controller/F01_ECPValid.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/salariati/controller/F01_ECPValid.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -446,7 +446,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558436739761" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558436874180" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Lab05Pb4" />
@@ -595,7 +595,7 @@
       <workItem from="1557332975955" duration="19000" />
       <workItem from="1558283318487" duration="7129000" />
       <workItem from="1558354780791" duration="4235000" />
-      <workItem from="1558434601303" duration="1686000" />
+      <workItem from="1558434601303" duration="1820000" />
     </task>
     <task id="LOCAL-00001" summary="init version">
       <created>1554204028957</created>
@@ -632,13 +632,17 @@
       <option name="project" value="LOCAL" />
       <updated>1558436489887</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="init version lab02">
+      <created>1558436747569</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1558436747569</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="F01_ECPValid - 2019.05.21 at 13h 58m 55s.xml">
-      <configuration name="F01_ECPValid" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="F01_ECPNonValid - 2019.05.21 at 14h 00m 15s.xml">
       <configuration name="F01_ECPNonValid" configurationId="JUnit" />
     </history-entry>
@@ -666,9 +670,12 @@
     <history-entry file="F01_ECPValid - 2019.05.21 at 14h 05m 35s.xml">
       <configuration name="F01_ECPValid" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="F01_ECPValid - 2019.05.21 at 14h 07m 47s.xml">
+      <configuration name="F01_ECPValid" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56151000" />
+    <option name="totallyTimeSpent" value="56285000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
